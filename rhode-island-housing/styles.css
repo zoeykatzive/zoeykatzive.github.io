@@ -75,7 +75,7 @@ h4, h5 {
 
 .image-0 {
     width: 100%;
-    max-width: 600px;
+    max-width: 650px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 0;
@@ -99,6 +99,9 @@ h4, h5 {
     align-items: flex-start;
 }
 
+.eviction-container p{
+    margin-top:0;
+}
 .eviction-container p,
 .eviction-container ul {
     width: 100%; /* Ensures full use of the .eviction-container width */
